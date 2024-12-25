@@ -9,7 +9,7 @@ The College Placement System is a web application designed to facilitate the pla
 **Responsive Design** : The application is designed to be responsive, ensuring a good user experience on both desktop and mobile devices.  
 
 # Technologies Used
-*HTML* : For structuring the web pages.
+*HTML* : For structuring the web pages.  
 *CSS* : For styling the application and ensuring a responsive design.  
 *JavaScript* : For implementing dynamic functionalities such as login validation, student detail updates, and notifications.  
 *Local Storage* : For storing student data and managing session information.
